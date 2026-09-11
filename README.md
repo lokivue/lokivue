@@ -52,13 +52,13 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Projetos
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=stokki-life&theme=github_dark)](https://github.com/lokivue/stokki-life)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=stokki-life&theme=radical)](https://github.com/lokivue/stokki-life)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=subtrack&theme=github_dark)](https://github.com/lokivue/subtrack)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=subtrack&theme=radical)](https://github.com/lokivue/subtrack)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=math-calculator&theme=github_dark)](https://github.com/lokivue/math-calculator)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=math-calculator&theme=radical)](https://github.com/lokivue/math-calculator)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=blog-de-programacao&theme=github_dark)](https://github.com/lokivue/blog-de-programacao)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=blog-de-programacao&theme=radical)](https://github.com/lokivue/blog-de-programacao)
 </div>
 
 
