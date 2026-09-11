@@ -39,7 +39,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Estatísticas
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=lokivue&theme=radical&hide_border=false&hide=stars%2Cavg%2Cactive_day%2Cgrade%2Cfollowers%2Crepos)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lokivue&theme=radical)](https://git.io/streak-stats)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=lokivue&theme=radical&layout=donut_vertical)
 
