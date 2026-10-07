@@ -37,7 +37,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 <div align="center">
 
-##  
+##  Contribuições
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lokivue&theme=git-dark)](https://git.io/streak-stats)
 
