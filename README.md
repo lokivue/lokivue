@@ -35,7 +35,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 </div>
 
-<div align="left">
+<div align="center">
 
 ## Contribuições
 
