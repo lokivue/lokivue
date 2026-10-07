@@ -43,8 +43,7 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lokivue&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=lokivue&include_all_commits=true&theme=rose)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&langs_count=4&theme=rose)](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&langs_count=4&theme=rose)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&layout=pie&langs_count=4&theme=rose)](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&layout=pie&langs_count=4&theme=rose)
 
 </div>
 
