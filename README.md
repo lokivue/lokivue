@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=F7319BFF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&pause=1000&color=D1083FFF&center=true&vCenter=true&width=480&lines=Oi,+Mundo!;Sou+Dev.+Front-End+Freelancer!)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,11 +39,12 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Estatísticas
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=lokivue&theme=radical&hide=hours%2Cweek%2Cavg%2Cactive_day%2Cgrade%2Crepos%2Cfollowers%2Cstreak%2Ctrend%2Ccontributions)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lokivue&theme=git-dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lokivue&theme=radical)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lokivue&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=lokivue&include_all_commits=true&theme=rose)
 
-![Top Languages](https://ghstats.dev/api/langs?username=lokivue&theme=radical&layout=donut_vertical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&langs_count=4&theme=rose)](https://github-stats-extended.vercel.app/api/top-langs?username=lokivue&langs_count=4&theme=rose)
+
 
 </div>
 
@@ -52,13 +53,13 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 ## Projetos
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=stokki-life&theme=radical)](https://github.com/lokivue/stokki-life)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=stokki-life&theme=rose)](https://github.com/lokivue/stokki-life)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=subtrack&theme=radical)](https://github.com/lokivue/subtrack)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=subtrack&theme=rose)](https://github.com/lokivue/subtrack)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=math-calculator&theme=radical)](https://github.com/lokivue/math-calculator)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=math-calculator&theme=rose)](https://github.com/lokivue/math-calculator)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=blog-de-programacao&theme=radical)](https://github.com/lokivue/blog-de-programacao)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=lokivue&repo=blog-de-programacao&theme=rose)](https://github.com/lokivue/blog-de-programacao)
 </div>
 
 
