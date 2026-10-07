@@ -37,9 +37,15 @@ Trabalho com um stack focado em performance, tipagem segura e usabilidade: **Rea
 
 <div align="left">
 
-## Estatísticas
+## Contribuições
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lokivue&theme=git-dark)](https://git.io/streak-stats)
+
+</div>
+
+<div align="left">
+
+## Estatísticas
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lokivue&include_all_commits=true&theme=rose)](https://github-stats-extended.vercel.app/api?username=lokivue&include_all_commits=true&theme=rose)
 
