@@ -8,7 +8,7 @@
 
 ## Sobre
 
-</div>
+</div> 
 
 Desenvolvedor front-end freelancer, focado em transformar ideias em interfaces rápidas, modernas e com boa usabilidade. Trabalho na construção de sites e aplicações web que priorizam experiência do usuário, aplicando boas práticas de mercado para entregar projetos escaláveis, responsivos e visualmente cuidados.
 
